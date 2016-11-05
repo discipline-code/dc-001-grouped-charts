@@ -1,0 +1,104 @@
+[
+   {
+      "key":"Sausage Party",
+      "values":[
+         {
+            "key":"all",
+            "value": 82
+         },
+         {
+            "key":"top",
+            "value": 86
+         },
+         {
+            "key":"audience",
+            "value": 66
+         }
+      ]
+   },
+   {
+      "key":"Suicide Squad",
+      "values":[
+         {
+            "key":"all",
+            "value": 27
+         },
+         {
+            "key":"top",
+            "value": 19
+         },
+         {
+            "key":"audience",
+            "value": 70
+         }
+      ]
+   },
+   {
+      "key":"Star Trek Beyond",
+      "values":[
+         {
+            "key":"all",
+            "value": 84
+         },
+         {
+            "key":"top",
+            "value": 80
+         },
+         {
+            "key":"audience",
+            "value": 83
+         }
+      ]
+   },
+   {
+      "key":"The Nice Guys",
+      "values":[
+         {
+            "key":"all",
+            "value": 91
+         },
+         {
+            "key":"top",
+            "value": 85
+         },
+         {
+            "key":"audience",
+            "value": 81
+         }
+      ]
+   },
+   {
+      "key":"Ghostbusters",
+      "values":[
+         {
+            "key":"all",
+            "value": 74
+         },
+         {
+            "key":"top",
+            "value": 59
+         },
+         {
+            "key":"audience",
+            "value": 57
+         }
+      ]
+   },
+   {
+      "key":"Don't Think Twice",
+      "values":[
+         {
+            "key":"all",
+            "value": 99
+         },
+         {
+            "key":"top",
+            "value": 97
+         },
+         {
+            "key":"audience",
+            "value": 76
+         }
+      ]
+   }
+]
